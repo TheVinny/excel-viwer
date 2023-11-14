@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/excel-viwer/static/css/main.571a2fda.css",
+    "main.js": "/excel-viwer/static/js/main.035ad78a.js",
+    "index.html": "/excel-viwer/index.html",
+    "main.571a2fda.css.map": "/excel-viwer/static/css/main.571a2fda.css.map",
+    "main.035ad78a.js.map": "/excel-viwer/static/js/main.035ad78a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.571a2fda.css",
+    "static/js/main.035ad78a.js"
+  ]
+}
